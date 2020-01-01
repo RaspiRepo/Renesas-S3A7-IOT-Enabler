@@ -14,3 +14,4 @@ Synergy Configuration
   S3A7
     series: 3
 ```
+![Image of s3a7](images/s3a7-iot-enabler.png)
