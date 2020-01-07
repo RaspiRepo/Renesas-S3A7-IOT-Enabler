@@ -1,0 +1,10 @@
+collapse/module.driver.i2c_on_riic.1952983119=false
+collapse/module.driver.spi_on_rspi.2018872767=false
+collapse/module.framework.sf_i2c_bus_on_sf_i2c_v2.1948107001=false
+collapse/module.framework.sf_i2c_on_sf_i2c_v2.1293001366=false
+collapse/module.framework.sf_i2c_on_sf_i2c_v2.1851380716=false
+collapse/module.framework.sf_i2c_on_sf_i2c_v2.523888588=false
+collapse/module.framework.sf_i2c_on_sf_i2c_v2.989240208=false
+collapse/module.framework.sf_wifi_gt202_v2.1731321697=false
+collapse/module.framework.sf_wifi_nsal_nx_v2.1238354281=false
+eclipse.preferences.version=1
